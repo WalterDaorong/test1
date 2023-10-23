@@ -1,1 +1,2 @@
 This is in smart branch
+This is a new line
